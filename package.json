@@ -1,0 +1,28 @@
+{
+  "name": "blogger-mean-application",
+  "version": "1.0.0",
+  "description": "MEAN Stack Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sushraj/MEAN-Application.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Application"
+  ],
+  "author": "Sushant Rajhans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sushraj/MEAN-Application/issues"
+  },
+  "homepage": "https://github.com/Sushraj/MEAN-Application#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.11"
+  }
+}
